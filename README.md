@@ -22,7 +22,7 @@ Perfect for:
 ---
 
 ## 🖥️ Platforms  
-- 💻 **Windows (.exe)** – Desktop application  
+- 💻 **Windows (.exe)** – Desktop application  (comming soon)
 - 📱 **Android (.apk)** – Mobile version (coming soon)  
 
 ---
@@ -59,7 +59,7 @@ Install directly on your Android device once available.
 
 
 📷 Screenshots
-(Add screenshots of the app UI here once ready)
+(you can see screenshots of the app UI here once ready)
 
 🤝 Contributing
 We welcome contributions, issues, and feature requests!
