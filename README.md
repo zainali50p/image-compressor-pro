@@ -29,6 +29,9 @@ Perfect for:
 
 ## 📦 Installation  
 
+## 📥 Download
+👉 [Download Image Compressor Pro (Windows EXE)](https://github.com/zainali50p/image-compressor-pro/releases/latest)
+
 ### 🔹 Desktop (Windows)  
 1. Clone this repository:  
    ```bash
